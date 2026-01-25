@@ -1,0 +1,14 @@
+C:\Users\Szymon\Desktop\Zadanie5\Zadanie5\bin\Debug\net10.0\Zadanie5.exe
+C:\Users\Szymon\Desktop\Zadanie5\Zadanie5\bin\Debug\net10.0\Zadanie5.deps.json
+C:\Users\Szymon\Desktop\Zadanie5\Zadanie5\bin\Debug\net10.0\Zadanie5.runtimeconfig.json
+C:\Users\Szymon\Desktop\Zadanie5\Zadanie5\bin\Debug\net10.0\Zadanie5.dll
+C:\Users\Szymon\Desktop\Zadanie5\Zadanie5\bin\Debug\net10.0\Zadanie5.pdb
+C:\Users\Szymon\Desktop\Zadanie5\Zadanie5\obj\Debug\net10.0\Zadanie5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Szymon\Desktop\Zadanie5\Zadanie5\obj\Debug\net10.0\Zadanie5.AssemblyInfoInputs.cache
+C:\Users\Szymon\Desktop\Zadanie5\Zadanie5\obj\Debug\net10.0\Zadanie5.AssemblyInfo.cs
+C:\Users\Szymon\Desktop\Zadanie5\Zadanie5\obj\Debug\net10.0\Zadanie5.csproj.CoreCompileInputs.cache
+C:\Users\Szymon\Desktop\Zadanie5\Zadanie5\obj\Debug\net10.0\Zadanie5.dll
+C:\Users\Szymon\Desktop\Zadanie5\Zadanie5\obj\Debug\net10.0\refint\Zadanie5.dll
+C:\Users\Szymon\Desktop\Zadanie5\Zadanie5\obj\Debug\net10.0\Zadanie5.pdb
+C:\Users\Szymon\Desktop\Zadanie5\Zadanie5\obj\Debug\net10.0\Zadanie5.genruntimeconfig.cache
+C:\Users\Szymon\Desktop\Zadanie5\Zadanie5\obj\Debug\net10.0\ref\Zadanie5.dll
