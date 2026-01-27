@@ -1,0 +1,14 @@
+C:\Users\Szymon\Desktop\Lab2_Zad4\Lab2_Zad4\bin\Debug\net10.0\Lab2_Zad4.exe
+C:\Users\Szymon\Desktop\Lab2_Zad4\Lab2_Zad4\bin\Debug\net10.0\Lab2_Zad4.deps.json
+C:\Users\Szymon\Desktop\Lab2_Zad4\Lab2_Zad4\bin\Debug\net10.0\Lab2_Zad4.runtimeconfig.json
+C:\Users\Szymon\Desktop\Lab2_Zad4\Lab2_Zad4\bin\Debug\net10.0\Lab2_Zad4.dll
+C:\Users\Szymon\Desktop\Lab2_Zad4\Lab2_Zad4\bin\Debug\net10.0\Lab2_Zad4.pdb
+C:\Users\Szymon\Desktop\Lab2_Zad4\Lab2_Zad4\obj\Debug\net10.0\Lab2_Zad4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Szymon\Desktop\Lab2_Zad4\Lab2_Zad4\obj\Debug\net10.0\Lab2_Zad4.AssemblyInfoInputs.cache
+C:\Users\Szymon\Desktop\Lab2_Zad4\Lab2_Zad4\obj\Debug\net10.0\Lab2_Zad4.AssemblyInfo.cs
+C:\Users\Szymon\Desktop\Lab2_Zad4\Lab2_Zad4\obj\Debug\net10.0\Lab2_Zad4.csproj.CoreCompileInputs.cache
+C:\Users\Szymon\Desktop\Lab2_Zad4\Lab2_Zad4\obj\Debug\net10.0\Lab2_Zad4.dll
+C:\Users\Szymon\Desktop\Lab2_Zad4\Lab2_Zad4\obj\Debug\net10.0\refint\Lab2_Zad4.dll
+C:\Users\Szymon\Desktop\Lab2_Zad4\Lab2_Zad4\obj\Debug\net10.0\Lab2_Zad4.pdb
+C:\Users\Szymon\Desktop\Lab2_Zad4\Lab2_Zad4\obj\Debug\net10.0\Lab2_Zad4.genruntimeconfig.cache
+C:\Users\Szymon\Desktop\Lab2_Zad4\Lab2_Zad4\obj\Debug\net10.0\ref\Lab2_Zad4.dll
