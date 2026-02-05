@@ -1,0 +1,10 @@
+1 Szymon Halerz
+2 Jan Kowalski
+3 Józef Polak
+4 Piotr Niemiec
+5 Staszek Kowal
+6 Jakub Bała
+7 Andrzej Warszawski
+8 Barbara Kwarc
+9 Krzysztof Krawczyk
+10 Janina Małopolska
